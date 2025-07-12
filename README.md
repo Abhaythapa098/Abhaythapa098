@@ -1,7 +1,8 @@
 [![Banner](https://wallpaperaccess.com/full/9142345.gif)](https://your-link.com)
 
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF" width="400"/>
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Animated GIF" width="400" />
+
 
 
 
