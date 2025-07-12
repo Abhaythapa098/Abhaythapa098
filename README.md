@@ -1,4 +1,4 @@
-[![Banner](https://wallpaperaccess.com/full/9142345.gif)](https://your-link.com)
+[![Your GIF](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://your-link.com)
 
 
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Animated GIF" width="400" />
